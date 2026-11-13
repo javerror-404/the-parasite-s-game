@@ -241,7 +241,7 @@ set_site_information(
     description="A trial-and-error puzzle game. Solve three puzzles, before you give in to insanity.",
     sources=["Drafter documentation", "Anthropic's Claude (AI assistant)"],
     planning=["CS1 Final Project 1_Design.pdf", "CS1 Final Project 0_Pick a Problem"],
-    links=[]
+    links=[https://javerror-404.github.io/the-parasite-s-game/]
     )
 
 set_website_title("The Parasite's Game")
